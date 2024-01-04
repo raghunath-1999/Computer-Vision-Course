@@ -13,13 +13,14 @@ https://bitbucket.org/cs512-s23-raghunath-babu/cs512-s23-babu-raghunath/src/mast
       - X and Y derivatives of an image and plotting gradients for corner detection.
       - Estimating correlating matrics and its associated eigen parameters for corer detection.
       - deep Nets
-4.HW3
+4. HW3
       - Line fitting and robust estimation ( with and without normalization +guassian noise)
       - applying regression on points in an image for line fitting
       - comparing performance with regression , robust estimation( CV_DIST_HUBER) and line fitting ( cv2.fitLine)
       - Image classification and fine tuning using CNN. VGG16, Inception Block, residual block(Resnet-implimentation)
       - results and inference
-5.HW4
+
+5. HW4
       - Semantic Segmentation using TFSegformerForSemanticSegmentation and CNN (with and without skip connection).
       -  Yolo modulte implementation with stored weights for real time continous object detection
 
